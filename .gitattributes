@@ -5,3 +5,4 @@ log filter=lfs diff=lfs merge=lfs -text
 result.csv filter=lfs diff=lfs merge=lfs -text
 run.sh filter=lfs diff=lfs merge=lfs -text
 CompactDroid.run filter=lfs diff=lfs merge=lfs -text
+dataset2 filter=lfs diff=lfs merge=lfs -text
