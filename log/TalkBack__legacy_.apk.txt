@@ -1,0 +1,44 @@
+com.google.android.accessibility
+Soot started on Tue Jun 14 17:00:56 CST 2022
+Using '/home/ys/下载/ci-d33-master/libs/android-platforms/android-27/android.jar' as android.jar
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+Warning: android.support.v4.view.accessibility.AccessibilityEventCompat is a phantom class!
+Warning: android.support.v4.view.accessibility.AccessibilityNodeInfoCompat is a phantom class!
+Warning: android.support.v4.view.accessibility.AccessibilityRecordCompat is a phantom class!
+Warning: com.google.android.accessibility.compositor.ActionVariables is a phantom class!
+Warning: com.google.android.accessibility.compositor.Compositor is a phantom class!
+Warning: com.google.android.accessibility.compositor.GlobalVariables is a phantom class!
+Warning: com.google.android.accessibility.compositor.NotificationHistory is a phantom class!
+Warning: com.google.android.accessibility.compositor.TextEventHistory is a phantom class!
+Warning: com.google.android.accessibility.utils.input.TextCursorManager is a phantom class!
+Warning: com.google.android.accessibility.utils.input.CursorController is a phantom class!
+Warning: com.google.android.accessibility.utils.input.InputModeManager is a phantom class!
+Warning: com.google.android.accessibility.utils.EditTextActionHistory is a phantom class!
+Warning: com.google.android.accessibility.utils.Performance$EventId is a phantom class!
+Warning: com.google.android.accessibility.compositor.EventInterpretation is a phantom class!
+Warning: com.google.android.accessibility.compositor.EventVariables is a phantom class!
+Warning: com.google.android.accessibility.compositor.NodeVariables is a phantom class!
+Warning: com.google.android.accessibility.compositor.R$bool is a phantom class!
+Warning: com.google.android.accessibility.compositor.R$string is a phantom class!
+Warning: com.google.android.accessibility.compositor.TextEventInterpretation is a phantom class!
+Warning: com.google.android.accessibility.utils.labeling.LabelManager is a phantom class!
+Warning: com.google.android.accessibility.utils.parsetree.ParseTree$VariableDelegate is a phantom class!
+Warning: com.google.android.accessibility.utils.parsetree.ParseTree is a phantom class!
+Warning: com.google.android.accessibility.utils.AccessibilityEventUtils is a phantom class!
+Warning: com.google.android.accessibility.utils.AccessibilityNodeInfoUtils is a phantom class!
+Warning: com.google.android.accessibility.utils.LogUtils is a phantom class!
+Warning: com.google.android.accessibility.utils.SpeechCleanupUtils is a phantom class!
+Transforming com.google.android.accessibility.compositor.TextEventInterpreter... 
+Transforming Transforming com.google.android.accessibility.compositor.EventFilter$VoiceActionDelegate... 
+com.google.android.accessibility.compositor.EventFilter... 
+Transforming com.google.android.accessibility.compositor.VariablesFactory... 
+Soot finished on Tue Jun 14 17:00:58 CST 2022
+Soot has run for 0 min. 1 sec.
+Found 26 additional DEX files. Now visiting them one by one.
+Soot started on Tue Jun 14 17:00:58 CST 2022
+Using '/home/ys/下载/ci-d33-master/libs/android-platforms/android-27/android.jar' as android.jar
+Warning: exception while processing dex file '/home/ys/桌面/CompactDroid/TalkBack__legacy_.apk.unzip/classes12.dex'
+Exception: org.jf.dexlib2.util.DexUtil$UnsupportedFile: Dex version 038 is not supported
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
