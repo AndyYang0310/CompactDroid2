@@ -1,4 +1,7 @@
 # CompactDroid Overview
+We propose an app Constraint Analysis approach named CompatDroid to select the optimal device to guide crowd testers. CompatDroid only needs no more than 7 Android versions to achieve almost the same code coverage testing on all 14 android versions in 36 of 46 apps. It can drastically reduce the consumption of test resources while losing little test coverage for crowdtesting.
+
+![overview](https://user-images.githubusercontent.com/107869122/191693701-892c3c46-e8b7-43eb-b8e7-4ec1f96e2a31.png)
 
 # Environment Configration
 * Ubuntu 20.04
